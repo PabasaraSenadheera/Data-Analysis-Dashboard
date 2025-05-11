@@ -36,6 +36,9 @@ The Power BI dashboard provides the following insights:
 - 🔸 Daily and monthly sales patterns
 - 🔸 Sales revenue trends
 - 🔸 Customer order frequency and peak demand times
+
+**_Visualizations done with Colab:_**
+
 ![image](https://github.com/user-attachments/assets/2fc71a3e-431f-42f7-acdc-a9ba7caaea4c)
 ![image](https://github.com/user-attachments/assets/2a4866d2-8538-4dd2-aa4c-bedaf9790630)
 ![image](https://github.com/user-attachments/assets/557c72a6-f46f-433d-8da2-78a5c57884b0)
